@@ -9,3 +9,5 @@ for (let i = 0; i < items.length; i++)
 
 const header = document.querySelector("h1");
 console.log(header);
+const red = document.querySelectorAll(".redclass");
+console.log(red);
