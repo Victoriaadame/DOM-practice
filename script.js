@@ -1,2 +1,2 @@
-document.getElementById("greeting").tectContent = "Hi There!";
-document.getElementById("h1").tectContent = "the header";
+document.getElementById("greeting").textContent = "Hi There!";
+document.getElementById("h1").textContent = "the header";
